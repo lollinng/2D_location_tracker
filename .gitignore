@@ -1,0 +1,5 @@
+*.ipynb
+output_path/
+checkpoint/
+notes.txt
+trying/
