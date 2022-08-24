@@ -1,5 +1,3 @@
-from dbm import dumb
-from ensurepip import bootstrap
 import json
 import requests
 from kafka import KafkaProducer
